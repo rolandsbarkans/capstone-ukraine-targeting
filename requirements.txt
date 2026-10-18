@@ -1,0 +1,13 @@
+branca
+contextily
+duckdb
+folium
+geopandas
+matplotlib
+numpy
+pandas
+plotly
+pyarrow
+rasterio
+seaborn
+shapely
